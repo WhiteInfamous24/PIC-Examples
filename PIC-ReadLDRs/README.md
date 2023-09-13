@@ -1,0 +1,2 @@
+# PIC-ReadLDRs
+PIC16F887
